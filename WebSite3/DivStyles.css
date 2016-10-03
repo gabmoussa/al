@@ -1,0 +1,17 @@
+body {  
+   font: 11pt Trebuchet MS;
+   padding-top: 72px;
+   text-align: center 
+	}  
+
+.text { 
+	font: 8pt Trebuchet MS 
+	}
+	
+.div1 {
+		background-color: #ADD8E6;
+}
+
+.div2 {
+		background-color: #F0E68C;
+}
